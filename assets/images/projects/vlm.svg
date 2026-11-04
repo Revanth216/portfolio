@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#57059e"/>
+      <stop offset="100%" stop-color="#2506ad"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <rect x="80" y="90" width="140" height="90" fill="#ffffff" opacity="0.9"/>
+  <rect x="240" y="90" width="140" height="90" fill="#ffd900"/>
+  <rect x="400" y="90" width="140" height="90" fill="#ffffff" opacity="0.75"/>
+  <rect x="560" y="90" width="140" height="90" fill="#ff7b00"/>
+  <text x="80" y="280" fill="#ffffff" font-family="Arial, sans-serif" font-size="40" font-weight="700">Qwen3-VL + LoRA</text>
+  <text x="80" y="330" fill="#ffe7a3" font-family="Arial, sans-serif" font-size="22">Video-window classification</text>
+</svg>

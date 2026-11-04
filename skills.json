@@ -1,0 +1,18 @@
+[
+  { "name": "Python", "icon": "./assets/images/skills/python.svg" },
+  { "name": "C++", "icon": "./assets/images/skills/cplusplus.svg" },
+  { "name": "Embedded C", "icon": "./assets/images/skills/c.svg" },
+  { "name": "PyTorch", "icon": "./assets/images/skills/pytorch.svg" },
+  { "name": "TensorFlow", "icon": "./assets/images/skills/tensorflow.svg" },
+  { "name": "Scikit-learn", "icon": "./assets/images/skills/scikitlearn.svg" },
+  { "name": "OpenCV", "icon": "./assets/images/skills/opencv.svg" },
+  { "name": "NumPy", "icon": "./assets/images/skills/numpy.svg" },
+  { "name": "Raspberry Pi", "icon": "./assets/images/skills/raspberrypi.svg" },
+  { "name": "Arduino", "icon": "./assets/images/skills/arduino.svg" },
+  { "name": "ESP32", "icon": "./assets/images/skills/espressif.svg" },
+  { "name": "Linux", "icon": "./assets/images/skills/linux.svg" },
+  { "name": "Git", "icon": "./assets/images/skills/git.svg" },
+  { "name": "CARLA", "icon": "./assets/images/skills/carla.svg" },
+  { "name": "Flask", "icon": "./assets/images/skills/flask.svg" },
+  { "name": "JavaScript", "icon": "./assets/images/skills/javascript.svg" }
+]
