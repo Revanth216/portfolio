@@ -98,7 +98,7 @@ function showSkills(skills) {
         skillHTML += `
         <div class="bar">
               <div class="info">
-                <img src="${skill.icon}" alt="${skill.name}" />
+                <img src="${skill.icon}?v=9" alt="${skill.name}" />
                 <span>${skill.name}</span>
               </div>
             </div>`
@@ -209,7 +209,8 @@ const srtop = ScrollReveal({
     origin: 'top',
     distance: '40px',
     duration: 700,
-    reset: false
+    reset: false,
+    mobile: false
 });
 
 /* SCROLL HOME */
